@@ -6,4 +6,5 @@ if(item){item.quantity++;}
 		name:name,
 		price:price,
 		qty:1});}
+	displayCart();}a
 
